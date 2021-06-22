@@ -1,3 +1,7 @@
+### Install the node modules in src folder by following commands:
+    cd src/
+    npm i
+
 ### Install nodemon using the following command
 
     npm i nodemon -g --save
